@@ -10,6 +10,8 @@ Un blog increíble para el[ Curso de Git y Github](https://platzi.com/cursos/git
 * Trucos muy locos del profesor
 * Crear repositorios, comandos de Git
 * Creado por el curso de Platzi.
+* Incluye ejemplos de Windows, Linux y Mac.
+*Disponible para todas las edades.
 
 Y como un amable recordatorio: **Este readme.md es una prueba**.  Diseñado para el ejemplo. Te invito a que sigas el curso.[**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
 
