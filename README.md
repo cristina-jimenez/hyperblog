@@ -9,9 +9,6 @@ Un blog increíble para el[ Curso de Git y Github](https://platzi.com/cursos/git
 * El verdadero amor por las buenas prácticas
 * Trucos muy locos del profesor
 * Crear repositorios, comandos de Git
-* Creado por el increíble Platzi Team
-* Incluye ejemplos en Windows, Linux y Mac
-* Disponible para todas las edades.
 * Creado por el curso de Platzi.
 * Incluye ejemplos de Windows, Linux y Mac.
 *Disponible para todas las edades.
